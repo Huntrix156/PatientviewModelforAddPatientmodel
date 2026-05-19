@@ -9,7 +9,7 @@ This is a view model  which  represents the presentation logic of a system, not 
 It acts as a bridge between the User Interface (the View) and the underlying data layer (the Model). 
 
 
-This PatientViewModel is responsible for:
+## **This PatientViewModel is responsible for:**
 
 1.Uploading an image to Cloudinary
 
